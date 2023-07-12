@@ -1,4 +1,4 @@
-<img src="https://scp.ac.cy/wp-content/uploads/2021/10/714512-ethical-hackingthinkstockphotos.jpg" height="350" width="980" border-radius="25">
+<img src="https://scp.ac.cy/wp-content/uploads/2021/10/714512-ethical-hackingthinkstockphotos.jpg" height="300" width="980" border-radius="25">
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">A passionate  full-Stack developer from India</h3>
 
