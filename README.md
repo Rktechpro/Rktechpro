@@ -3,7 +3,7 @@
 <h3 align="center">A passionate  full-Stack developer from India</h3>
 
 
-- 🌱 I’m currently learning **Java language**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 💬 Ask me about **javascript,Android,php**
 
