@@ -1,7 +1,7 @@
 <img src="https://scp.ac.cy/wp-content/uploads/2021/10/714512-ethical-hackingthinkstockphotos.jpg" height="300" width="980" border-radius="25">
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">A passionate  full-Stack developer from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rktechpro&label=Profile%20views&color=0e75b6&style=flat" alt="Rktechpro" /> </p>
 
 - 🌱 I’m currently learning **Mern Stack**
 
