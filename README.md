@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **javascript,Reactjs,Mongodb**
+- 💬 Ask me about **javascript,Reactjs,Mongodb,Nodejs,Java**
 
 
 <h3 align="left">Connect with me:</h3>
