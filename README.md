@@ -1,4 +1,4 @@
-<img src="https://www.scnsoft.com/blog-pictures/software-development-outsourcing/sw-development-teams.png" height="300" width="980" style="border-radius:10">
+<img src="https://www.scnsoft.com/blog-pictures/software-development-outsourcing/sw-development-teams.png" height="300" width="980" style="border-radius:10%">
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">A passionate  full-Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rktechpro&label=Profile%20views&color=0e75b6&style=flat" alt="Rktechpro" /> </p>
