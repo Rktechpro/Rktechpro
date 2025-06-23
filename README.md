@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">A passionate  full-Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rktechpro&label=Profile%20views&color=0e75b6&style=flat" alt="Rktechpro" /> </p>
-
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Code.+Build.+Repeat.;Turning+Ideas+into+Code;React+%7C+Node.js+%7C+MongoDB+%7C+AI+Projects" alt="Typing SVG" />
+</p>
 - 🌱 I’m currently learning **Mern Stack**
 
 - 💬 Ask me about **javascript,Reactjs,Mongodb,Nodejs,Java**
