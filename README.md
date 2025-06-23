@@ -64,7 +64,7 @@
 <hr>
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rktechpro&" alt="Rktechpro"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rktechpro&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Rktechpro" />
+ 
 </div>
   <br />
 
