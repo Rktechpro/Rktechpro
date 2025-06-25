@@ -63,7 +63,7 @@
 </div>
 <hr>
 <div>
-  <img align="center" background="red" src="https://github-readme-streak-stats.herokuapp.com/?user=rktechpro&" alt="Rktechpro"/>
+  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rktechpro" alt="Rktechpro"/>
   <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
