@@ -64,9 +64,8 @@
 <hr>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rktechpro&theme=tokyonight" alt="GitHub Streak Stats" />
+   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
-
-
  
   <br />
 
