@@ -67,6 +67,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rktechpro&theme=tokyonight" alt="Rktechpro" />
 </p>
 
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+ 
   <br />
 
