@@ -62,11 +62,10 @@
 <span>
 </div>
 <hr>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rktechpro&theme=tokyonight" alt="rktechpro GitHub Streak Stats" />
-   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://streak-stats.demolab.com?user=rktechpro&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
+
 
  
   <br />
