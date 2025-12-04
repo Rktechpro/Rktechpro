@@ -1,4 +1,4 @@
-<img src="https://www.scnsoft.com/blog-pictures/software-development-outsourcing/sw-development-teams.png" height="420" width="900" id="img">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637240252162/nzzymqqny.png" height="420" width="900" id="img">
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">A passionate  full-Stack developer from India</h3>
   <p align="center">
@@ -56,16 +56,10 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"  style="border-radius:3px">
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"  style="border-radius:3px">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  style="border-radius:3px">
-   <img src="https://img.shields.io/badge/Hosting-008272?style=for-the-badge&logo=hostinger&logoColor=white"  style="border-radius:3px">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"  style="border-radius:3px">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"  style="border-radius:3px">
-  <!-- AWS -->
+  <img src="https://img.shields.io/badge/Hosting-008272?style=for-the-badge&logo=hostinger&logoColor=white"  style="border-radius:3px">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"  style="border-radius:3px">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="border-radius:3px">
-
-<!-- Amazon S3 -->
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" style="border-radius:3px">
-
-<!-- Amazon EC2 -->
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" style="border-radius:3px">
 
 <span>
