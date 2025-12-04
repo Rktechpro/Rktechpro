@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/badge/MERN_STACK-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" />
-
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">A passionate  full-Stack developer from India</h3>
   <p align="center">
