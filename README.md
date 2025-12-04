@@ -58,7 +58,16 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  style="border-radius:3px">
    <img src="https://img.shields.io/badge/Hosting-008272?style=for-the-badge&logo=hostinger&logoColor=white"  style="border-radius:3px">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"  style="border-radius:3px">
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"  style="border-radius:3px">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"  style="border-radius:3px">
+  <!-- AWS -->
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="border-radius:3px">
+
+<!-- Amazon S3 -->
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" style="border-radius:3px">
+
+<!-- Amazon EC2 -->
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" style="border-radius:3px">
+
 <span>
 </div>
 <hr>
