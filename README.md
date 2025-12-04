@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Rktechpro/MERN-Stack/main/mern-stack.png" height="420" width="900" id="img">
+<img src="https://raw.githubusercontent.com/paulrobertlloyd/assets/main/logos/mern.png" width="900" height="420" />
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">A passionate  full-Stack developer from India</h3>
   <p align="center">
